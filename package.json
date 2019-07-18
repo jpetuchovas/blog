@@ -6,7 +6,8 @@
     "build": "gatsby build",
     "dev": "gatsby clean && gatsby develop",
     "format": "prettier --write \"src/**/*.js\"",
-    "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
+    "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\"",
+    "serve": "gatsby serve"
   },
   "dependencies": {
     "gatsby": "^2.0.76",
