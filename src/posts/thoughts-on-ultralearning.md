@@ -7,7 +7,7 @@ excerpt: "Most of my pastimes involve acquiring new knowledge or directly practi
 
 Most of my pastimes involve acquiring new knowledge (e.g., learning core [functional programming](https://en.wikipedia.org/wiki/Functional_programming) concepts) or directly practicing a skill (e.g., correctly performing a pull-up). The same can be said about my profession: working on software projects requires constant learning.
 
-To maximize the benefits of such learning efforts, I‘ve always been on the lookout for effective learning strategies. One good resource on the best ways to learn is [Scott Young’s blog](https://www.scotthyoung.com/blog/articles/) that I have been following for quite a while[^1]. So, I was excited to read his new book *[Ultralearning](https://www.scotthyoung.com/blog/ultralearning/)*.
+To maximize the benefits of such learning efforts, I’ve always been on the lookout for effective learning strategies. One good resource on the best ways to learn is [Scott Young’s blog](https://www.scotthyoung.com/blog/articles/) that I have been following for quite a while[^1]. So, I was excited to read his new book *[Ultralearning](https://www.scotthyoung.com/blog/ultralearning/)*.
 
 ## Why Read the Book?
 
@@ -33,7 +33,7 @@ Out of the 9 principles, I would like to elaborate a bit more on metalearning, d
 
 ### Metalearning
 
-As preparation for [OMSCS](http://www.omscs.gatech.edu/)[^2], I’ve recently started learning computer architecture since it’s one of the areas of computer science in which I feel particularly weak. If I hadn’t been familiar with the ideas explored in *Ultralearning*, my learning efforts would have been somewhat haphazard. However, having read the book, I‘ve decided to apply the principle of metalearning. So, I’ve created a plan on how I intend to learn the subject. It includes my goals, a schedule, learning resources, and practice activities. I can already notice that I am more focused during my study sessions and that I feel more in control compared to my previous learning endeavors. This, I believe, wouldn’t have been possible if I hadn’t planned the project.
+As preparation for [OMSCS](http://www.omscs.gatech.edu/)[^2], I’ve recently started learning computer architecture since it’s one of the areas of computer science in which I feel particularly weak. If I hadn’t been familiar with the ideas explored in *Ultralearning*, my learning efforts would have been somewhat haphazard. However, having read the book, I’ve decided to apply the principle of metalearning. So, I’ve created a plan on how I intend to learn the subject. It includes my goals, a schedule, learning resources, and practice activities. I can already notice that I am more focused during my study sessions and that I feel more in control compared to my previous learning endeavors. This, I believe, wouldn’t have been possible if I hadn’t planned the project.
 
 ### Directness
 
