@@ -302,7 +302,7 @@ Consistent versioning:
 
 - Major – different assumptions with regards to inputs and outputs.
 - Minor – changing hyperparameters, some internal improvements.
-- Patch - bugfixes, small tweaks.
+- Patch – bugfixes, small tweaks.
 
 Example: if v2.13.6 is running in production, you can substitute it with v2.*.*.
 
