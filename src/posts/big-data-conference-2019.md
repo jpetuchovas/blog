@@ -304,7 +304,7 @@ Consistent versioning:
 - Minor – changing hyperparameters, some internal improvements.
 - Patch – bugfixes, small tweaks.
 
-Example: if v2.13.6 is running in production, you can substitute it with v2.*.*.
+Example: if v2.13.6 is running in production, you can substitute it with v2.\*.\*.
 
 AI does not give you a competitive advantage. The thing that matters is what you build using AI.
 
