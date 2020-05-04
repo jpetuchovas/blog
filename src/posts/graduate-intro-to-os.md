@@ -1,7 +1,7 @@
 ---
 title: "Review: Graduate Introduction to Operating Systems"
 path: "/graduate-intro-to-os"
-date: "2020-05-03"
+date: "2020-05-04"
 excerpt: "As the first course in the Georgia Tech master’s program, I wanted to take something that would cover foundational computer science topics and would push me out of my comfort zone. I am glad I took Graduate Introduction to Operating Systems because I got what I wanted."
 tags: ["OMSCS"]
 ---
